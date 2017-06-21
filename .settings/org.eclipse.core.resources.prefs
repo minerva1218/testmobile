@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//assets/wfs/js/lib.js=UTF-8
+encoding//src/org/join/wfs/WFSActivity.java=UTF-8
+encoding//src/org/join/wfs/server/HttpFileHandler.java=UTF-8
+encoding//src/org/join/wfs/server/HttpZipHandler.java=UTF-8
+encoding//src/org/join/wfs/server/WebServer.java=UTF-8
+encoding//src/org/join/wfs/util/CopyUtil.java=UTF-8
